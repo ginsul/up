@@ -7,15 +7,14 @@ sites:
     url: https://www.google.com
   - name: Aqua
     url: https://aqua.co.id
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: API endpoint
     url: https://api.checklyhq.com/v1/check-statuses
+    method: GET
     headers:
+      - "Content-Type: application/json"    
       - "Authorization: Bearer cu_43e15be7b4814896bec0b7d20fd9bdec"
-      - "Content-Type: application/json"
       - "x-checkly-account: 7f9ae0ea-c5e7-4db5-a5b8-9a466915d8b1"
 
 status-website:
