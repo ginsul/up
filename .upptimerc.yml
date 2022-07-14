@@ -10,13 +10,13 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: API endpoint
-    url: https://api.checklyhq.com/v1/check-statuses/67fabc9a-236d-4ee2-9184-74e37bad4b14  
+    url: https://api.checklyhq.com/v1/check-statuses/67fabc9a-236d-4ee2-9184-74e37bad4b14 
+    __dangerous__body_down_if_text_missing: '"hasFailures": false,'      
     method: GET
     headers:
       - "Content-Type: application/json"    
       - "Authorization: Bearer cu_43e15be7b4814896bec0b7d20fd9bdec"
       - "x-checkly-account: 7f9ae0ea-c5e7-4db5-a5b8-9a466915d8b1"
-    __dangerous__body_down_if_text_missing: '"hasFailures": false,'  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
