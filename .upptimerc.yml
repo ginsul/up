@@ -11,11 +11,11 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: API endpoint
     url: https://api.checklyhq.com/accounts/7f9ae0ea-c5e7-4db5-a5b8-9a466915d8b1/prometheus/metrics
+    __dangerous__body_down: "checkly_check_status{check_name="https://kaskus.co.id",check_type="api",muted="false",activated="true",degraded="false",tags="hoalah"} 0"    
     method: GET
     headers:
       - "Content-Type: application/json"    
       - "Authorization: Bearer iOxUPhlChpPzXbHA5p9Y1SZi"
-    __dangerous__body_down: "checkly_check_status{check_name="https://kaskus.co.id",check_type="api",muted="false",activated="true",degraded="false",tags="hoalah"} 0"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
