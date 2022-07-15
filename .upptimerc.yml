@@ -11,7 +11,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: API endpoint
     url: https://api.checklyhq.com/v1/check-statuses/67fabc9a-236d-4ee2-9184-74e37bad4b14 
-    __dangerous__body_down_if_text_missing: '"hasFailures": false'      
+    __dangerous__body_down_if_text_missing: '"hasFailures": true'      
     method: GET
     headers:
       - "Content-Type: application/json"    
