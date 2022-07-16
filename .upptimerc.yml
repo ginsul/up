@@ -3,12 +3,6 @@ owner: ginsul # Your GitHub organization or username, where this repository live
 repo: up # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Aqua
-    url: https://aqua.co.id
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: API endpoint
     url: https://api.checklyhq.com/v1/check-statuses/67fabc9a-236d-4ee2-9184-74e37bad4b14 
     __dangerous__body_down: '"hasFailures":true,'      
