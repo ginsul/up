@@ -5,19 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/api.checklyhq.com",
     "slug": "api-endpoint",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "100%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "100%",
     "time": 385,
     "timeDay": 409,
     "timeWeek": 373,
     "timeMonth": 393,
     "timeYear": 385,
-    "dailyMinutesDown": {
-      "2022-07-15": 232,
-      "2022-07-14": 272
-    }
   }
 ]
