@@ -4,17 +4,19 @@
     "url": "https://api.checklyhq.com/v1/check-statuses/$CHECKLY_ENDPOINT_FORUM_URL",
     "icon": "https://favicons.githubusercontent.com/api.checklyhq.com",
     "slug": "api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 304,
-    "timeWeek": 349,
+    "timeDay": 402,
+    "timeWeek": 365,
     "timeMonth": 450,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-08": 0
+    }
   }
 ]
