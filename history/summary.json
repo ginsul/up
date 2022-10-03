@@ -2,7 +2,7 @@
   {
     "name": "API endpoint",
     "url": "https://api.checklyhq.com/v1/check-statuses/$CHECKLY_ENDPOINT_FORUM_URL",
-    "icon": "https://favicons.githubusercontent.com/api.checklyhq.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.checklyhq.com.ico",
     "slug": "api-endpoint",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 401,
-    "timeWeek": 415,
-    "timeMonth": 412,
+    "timeDay": 445,
+    "timeWeek": 398,
+    "timeMonth": 414,
     "timeYear": 422,
     "dailyMinutesDown": {}
   }
