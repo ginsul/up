@@ -4,17 +4,19 @@
     "url": "https://api.checklyhq.com/v1/check-statuses/$CHECKLY_ENDPOINT_FORUM_URL",
     "icon": "https://icons.duckduckgo.com/ip3/api.checklyhq.com.ico",
     "slug": "api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 310,
-    "timeWeek": 418,
-    "timeMonth": 394,
+    "timeDay": 307,
+    "timeWeek": 409,
+    "timeMonth": 392,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]
