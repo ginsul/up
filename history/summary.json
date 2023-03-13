@@ -6,17 +6,16 @@
     "slug": "api-endpoint",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 436,
-    "timeDay": 501,
+    "timeDay": 498,
     "timeWeek": 441,
-    "timeMonth": 423,
+    "timeMonth": 424,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2023-03-12": 2,
       "2023-03-11": 24,
       "2023-01-18": 49
     }
