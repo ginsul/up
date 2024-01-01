@@ -1,7 +1,7 @@
 url: https://api.checklyhq.com/v1/check-statuses/$CHECKLY_ENDPOINT_FORUM_URL
 status: up
 code: 200
-responseTime: 559
-lastUpdated: 2023-12-31T23:08:57.058Z
+responseTime: 581
+lastUpdated: 2024-01-01T23:08:48.829Z
 startTime: 2022-07-14T15:49:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
